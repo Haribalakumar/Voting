@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:42 +0530] "GET / HTTP/1.1" 200 433 http-bio-9090-exec-1 34
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:43 +0530] "GET /Signup.html HTTP/1.1" 304 - http-bio-9090-exec-3 3
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:43 +0530] "GET /Vote.js HTTP/1.1" 304 - http-bio-9090-exec-4 1
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:54 +0530] "POST /voterServlet HTTP/1.1" 200 - http-bio-9090-exec-5 290
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:54 +0530] "GET /login.html HTTP/1.1" 304 - http-bio-9090-exec-6 1
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:59 +0530] "POST /login HTTP/1.1" 200 914 http-bio-9090-exec-7 10
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:58:59 +0530] "GET /polling.js HTTP/1.1" 304 - http-bio-9090-exec-8 1
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:59:05 +0530] "POST /polling HTTP/1.1" 200 - http-bio-9090-exec-9 72
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:59:07 +0530] "GET /polling.html HTTP/1.1" 304 - http-bio-9090-exec-2 2
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:59:32 +0530] "POST /login HTTP/1.1" 200 914 http-bio-9090-exec-2 4
+0:0:0:0:0:0:0:1 - - [28/Mar/2023:14:59:37 +0530] "POST /polling HTTP/1.1" 200 - http-bio-9090-exec-2 365
